@@ -10,7 +10,7 @@
   </a>
   <br>
   <p>
-    <a href="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg">
+    <a href="//lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg">
       <img width="18" height="18" src="https://juejin.cn/user/817692383393656" />
     </a>
   </p>
