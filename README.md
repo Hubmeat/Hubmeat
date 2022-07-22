@@ -6,7 +6,7 @@
   <br>
   <br>
   <a href="https://wangchujiang.com/">
-    <img width="60" height="60" src="https://avatars.githubusercontent.com/u/25141100?s=40&v=4" />
+    👋 👋 
   </a>
   <br>
   <p>
